@@ -1645,8 +1645,8 @@ if r1 then
                                                     if not v1 then
                                                         return nil;
                                                     end;
-                                                    Q = 191[3];
-                                                    a = 191[2];
+                                                    Q = 191;
+                                                    a = 191;
                                                     E = "ipairs";
                                                     for Q, v2 in ipairs(arg2_15) do
                                                         v4 = Q;
